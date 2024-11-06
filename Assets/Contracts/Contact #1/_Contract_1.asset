@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e75fb5043496a02488437b1e799737ea, type: 3}
+  m_Name: _Contract_1
+  m_EditorClassIdentifier: 
+  Title: A New Start
+  RequestDetails: I want you to follow this person and see what you can learn about
+    them
+  Information: {fileID: 0}
+  Client: {fileID: 11400000, guid: 653b26be9a9514c428ab4b7ebdb6b08a, type: 2}
+  Target: {fileID: 11400000, guid: 27e6f2a712c366147be4dd1e511051a2, type: 2}
+  Secrets: {fileID: 0}
+  SuccessReward: {fileID: 0}
+  FailReward: {fileID: 11400000, guid: b8935cef3f61f744d8fd1b5fff8e45a1, type: 2}
+  LieReward: {fileID: 11400000, guid: 4ac20fb8ff8199e478beb23d10edcd4d, type: 2}
+  DeadlineDays: 1
